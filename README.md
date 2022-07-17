@@ -1,5 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?height=400&text=Yang%20Damin)
-### Hi there 👋
 
 <!--
 **YangDamin/YangDamin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
